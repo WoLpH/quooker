@@ -1,0 +1,7 @@
+
+
+
+class BaseAutoConfigure(object):
+
+
+    pass
