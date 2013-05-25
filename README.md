@@ -10,9 +10,10 @@ Architecture
 ============
 
 Fastfood consists of three layers
-1.) Transformation (The highest level describing which steps to execute)
-2.) Goal
-3.) Magic (Responsible for automagically creating a transformation based on the specified goal)
+
+1. Transformation (The highest level describing which steps to execute)
+2. Goal
+3. Magic (Responsible for automagically creating a transformation based on the specified goal)
 
 The YouTellMe interface will
 - Display the basic feed information
